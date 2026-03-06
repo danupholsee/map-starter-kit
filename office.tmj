@@ -396,15 +396,20 @@
                          "value":true
                         }, 
                         {
-                         "name": "openTab",
+                         "name": "openWebsite",
                          "type":"string",
                          "value":"https://teams.microsoft.com/v2/"
                         }, 
                         {
-                         "name": "openTabTrigger",
+                         "name": "openWebsitePolicy",
                          "type":"string",
-                         "value": "onaction"
+                         "value": "newTab"
                         }, 
+                        {
+                         "name": "openWebsiteTrigger",
+                         "type": "string",
+                         "value": "onaction"
+                        },
                         {
                          "name": "openTabTriggerMessage",
                          "type":"string",
