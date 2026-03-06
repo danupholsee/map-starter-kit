@@ -411,7 +411,7 @@
                          "value": "onaction"
                         },
                         {
-                         "name": "openTabTriggerMessage",
+                         "name": "openWebsiteTriggerMessage",
                          "type":"string",
                          "value": "[SPACE] to enter MS Teams"
                         }],
