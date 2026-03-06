@@ -347,9 +347,9 @@
                          "value":true
                         }, 
                         {
-                         "name":"jitsiRoom",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"https://plane.step-innovation.com"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -396,9 +396,9 @@
                          "value":true
                         }, 
                         {
-                         "name":"jitsiRoom",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"https://teams.microsoft.com/v2/"
                         }, 
                         {
                          "name":"jitsiTrigger",
