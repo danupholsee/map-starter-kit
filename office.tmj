@@ -347,14 +347,24 @@
                          "value":true
                         }, 
                         {
-                         "name":"openTab",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https://plane.step-innovation.com"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name": "openWebsiteTrigger",
+                         "type": "string",
+                         "value": "onaction"
+                        },
+                        {
+                         "name": "openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"onaction"
+                         "value": "[SPACE] to open Plane"
+                        },
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"newTab"
                         }, 
                         {
                          "name":"zoom_margin",
