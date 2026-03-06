@@ -396,24 +396,19 @@
                          "value":true
                         }, 
                         {
-                         "name":"openWebsite",
+                         "name": "openTab",
                          "type":"string",
                          "value":"https://teams.microsoft.com/v2/"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
+                         "name": "openTabTrigger",
                          "type":"string",
-                         "value":"newTab"
+                         "value": "onaction"
                         }, 
                         {
-                         "name":"openWebsiteTrigger",
+                         "name": "openTabTriggerMessage",
                          "type":"string",
-                         "value":"onaction"
-                        },
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"[SPACE] to enter MS Teams"
+                         "value": "[SPACE] to enter MS Teams"
                         }],
                  "rotation":0,
                  "type":"area",
