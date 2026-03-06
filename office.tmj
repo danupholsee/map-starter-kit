@@ -396,24 +396,24 @@
                          "value":true
                         }, 
                         {
-                         "name": "openWebsite",
-                         "type": "string",
-                         "value": "https://teams.microsoft.com/v2/"
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https://teams.microsoft.com/v2/"
                         }, 
                         {
-                         "name": "openWebsitePolicy",
-                         "type": "string",
-                         "value": "newTab"
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"newTab"
                         }, 
                         {
-                         "name": "openWebsiteTrigger",
-                         "type": "string",
-                         "value": "onaction"
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         },
                         {
-                         "name": "openWebsiteTriggerMessage",
-                         "type": "string",
-                         "value": "[SPACE] to enter MS Teams"
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"[SPACE] to enter MS Teams"
                         }],
                  "rotation":0,
                  "type":"area",
