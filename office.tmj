@@ -591,12 +591,12 @@
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
-                         "value":"on-external-button"
+                         "value":"onaction"
                         }, 
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Open Subsub"
+                         "value":"[SPACE] Open Subsub"
                         }],
                  "rotation":0,
                  "type":"",
@@ -879,4 +879,5 @@
  "type":"map",
  "version":"1.10",
  "width":31
+
 }
